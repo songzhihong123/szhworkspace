@@ -1,0 +1,20 @@
+{
+	"recId" : "123",
+	"recLineNo" : "12345",
+	"recCreator" : "admin",
+	"recCreatorTime" : "2018-12-01 15:00:00",
+	"recRevisor" : "admin",
+	"recReviseTime" : "2018-12-02 15:02:23",
+	"recDeleteor" : "admin",
+	"recDeleteTime" : "2018-12-05 12:12:12",
+	"recStatus" : "1",
+	"deleteFlag" : "删除",
+	"orgUnitCode" : "12306",
+	"recWstId" : "admincode",
+	"remark" : "备注",
+	"logGrade" : "错误",
+	"operationObject" : "操作对象",
+	"operationType" : "操作类型",
+	"operationSource" : "来源",
+	"operationDesc" : "日志内容"
+}

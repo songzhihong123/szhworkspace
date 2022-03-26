@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: dubbo-auto-configuration-provider-demo
+
+#dubbo:
+#  protocol:
+#    name: dubbo
+#    port: 12346
+#  registry:
+#    address: zookeeper://127.0.0.1:2181
+#  scan:
+#    base-packages: com.xdclass.user.service.impl
+
+server:
+  port: 8081

@@ -1,0 +1,38 @@
+<beans xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:dubbo="http://dubbo.apache.org/schema/dubbo"
+       xmlns="http://www.springframework.org/schema/beans"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+       http://dubbo.apache.org/schema/dubbo http://dubbo.apache.org/schema/dubbo/dubbo.xsd">
+
+    <!--<dubbo:application name="demo-provider"/>-->
+
+    <dubbo:registry id="local" address="zookeeper://127.0.0.1:2181"/>
+    <!--<dubbo:registry id="remote" address="zookeeper://192.168.163.130:2181"/>-->
+
+    <!--多协议配置-->
+    <dubbo:protocol name="dubbo" port="12346"/>
+    <!--<dubbo:protocol name="http" port="8888"/>-->
+
+
+    <bean id="userService" class="com.xdclass.user.service.impl.UserServiceImpl"/>
+    <bean id="fileService" class="com.xdclass.user.service.impl.FileServiceImpl"/>
+
+    <!--<dubbo:service interface="com.xdclass.user.service.UserService" ref="userService" timeout="3000">
+        <dubbo:method name="sayHello" timeout="6000"></dubbo:method>
+    </dubbo:service>-->
+
+    <!--多注册中心引用-->
+    <!--<dubbo:service interface="com.xdclass.user.service.UserService" ref="userService" protocol="dubbo" registry="local,remote"/>-->
+    <!--<dubbo:service interface="com.xdclass.user.service.FileService" ref="fileService" protocol="http" registry="remote"/>-->
+
+    <dubbo:service interface="com.xdclass.user.service.FileService" ref="fileService" registry="local"/>
+
+    <dubbo:service group="user1" interface="com.xdclass.user.service.UserService" ref="userService" registry="local" version="1.0"/>
+
+    <bean id="userService2" class="com.xdclass.user.service.impl.UserServiceImpl2"/>
+    <dubbo:service group="user2" interface="com.xdclass.user.service.UserService" ref="userService2" registry="local"/>
+
+
+
+
+</beans>

@@ -1,0 +1,19 @@
+package com.geely.design.pattern.behavioral.templatemethod;
+
+/**
+ * Created by Zhihong Song on 2020/12/23 11:58
+ */
+
+public class DesignPatternCourse extends ACourse {
+
+
+    @Override
+    void packageCourse() {
+        System.out.println("提供课程java源代码");
+    }
+
+    @Override
+    protected boolean needWriteArticle() {
+        return true;
+    }
+}
