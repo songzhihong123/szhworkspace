@@ -14,7 +14,7 @@ public class Main {
     public static void main(String[] args){
 
 //        VUtils.isTrue(false).throwMessage("error!");
-//        VUtils.isTrue(true).throwMessage("error!");
+        VUtils.isTrue(true).throwMessage(new RuntimeException("123213"));
 
 //        VUtils.ifTrueOrFalse(true).trueOrFalseHandle(() -> {
 //            System.out.println("truehandle");
@@ -23,15 +23,15 @@ public class Main {
 //        });
 
 
-        VUtils.isBlankOrNoBlank("").presentOrElseHandle((str) -> {
-            System.out.println(str);
-        },() -> {
-            System.out.println("我是空的");
-        });
-
-        Observable.just("12").subscribe((a) -> {
-            System.out.println(a);
-        });
+//        VUtils.isBlankOrNoBlank("").presentOrElseHandle((str) -> {
+//            System.out.println(str);
+//        },() -> {
+//            System.out.println("我是空的");
+//        });
+//
+//        Observable.just("12").subscribe((a) -> {
+//            System.out.println(a);
+//        });
 
 
 

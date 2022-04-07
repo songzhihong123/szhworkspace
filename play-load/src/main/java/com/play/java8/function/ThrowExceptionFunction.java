@@ -10,6 +10,6 @@ package com.play.java8.function;
 public interface ThrowExceptionFunction {
 
 
-    void throwMessage(String message);
+    void throwMessage(RuntimeException exception);
 
 }

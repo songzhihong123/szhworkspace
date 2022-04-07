@@ -13,9 +13,9 @@ public class VUtils {
     */
     public static ThrowExceptionFunction isTrue(boolean b){
 
-        return message -> {
+        return (exception)-> {
             if(b){
-                throw new RuntimeException(message);
+                throw exception;
             }
         };
 
