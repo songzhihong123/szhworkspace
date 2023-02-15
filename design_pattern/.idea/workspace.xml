@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="33910cdf-fc07-459a-93bd-29d47d406cf7" name="Changes" comment="&quot;111&quot;">
+      <change afterPath="$PROJECT_DIR$/../let_code/src/com/song/simple/_1768.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../let_code/src/com/song/sort/HelloWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaArchitect" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaArchitect" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring Boot workplace.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data_structure/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../data_structure/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/chainofresponsibility/myself/GateWayDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/chainofresponsibility/myself/GateWayDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/chainofresponsibility/myself/GateWayDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/chainofresponsibility/myself/GateWayDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/chainofresponsibility/myself/GateWayEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/chainofresponsibility/myself/GateWayEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/chainofresponsibility/myself/GateWayFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/chainofresponsibility/myself/GateWayFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/chainofresponsibility/myself/GatewayEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/chainofresponsibility/myself/GatewayEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/chainofresponsibility/myself/GatewayHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/chainofresponsibility/myself/GatewayHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-juc/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../imooc-juc/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-juc/src/main/java/threadpool/ScheduledThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../imooc-juc/src/main/java/threadpool/ScheduledThreadPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-juc/target/classes/flowcontrol/condition/ConditionDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../imooc-juc/target/classes/flowcontrol/condition/ConditionDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-juc/target/classes/flowcontrol/condition/ConditionDemo2$Consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../imooc-juc/target/classes/flowcontrol/condition/ConditionDemo2$Consumer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-juc/target/classes/flowcontrol/condition/ConditionDemo2$Provider.class" beforeDir="false" afterPath="$PROJECT_DIR$/../imooc-juc/target/classes/flowcontrol/condition/ConditionDemo2$Provider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-juc/target/classes/flowcontrol/countdownlatch/CountDownLatchDemo1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../imooc-juc/target/classes/flowcontrol/countdownlatch/CountDownLatchDemo1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-juc/target/classes/flowcontrol/countdownlatch/CountDownLatchDemo1And2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../imooc-juc/target/classes/flowcontrol/countdownlatch/CountDownLatchDemo1And2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-juc/target/classes/future/FutureTaskDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../imooc-juc/target/classes/future/FutureTaskDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-juc/target/classes/lock/lock/LockInterruptibly.class" beforeDir="false" afterPath="$PROJECT_DIR$/../imooc-juc/target/classes/lock/lock/LockInterruptibly.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-juc/target/classes/lock/readwrite/CinemaReadWrite.class" beforeDir="false" afterPath="$PROJECT_DIR$/../imooc-juc/target/classes/lock/readwrite/CinemaReadWrite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-juc/target/classes/lock/reentrantlock/CinemaBookSeat.class" beforeDir="false" afterPath="$PROJECT_DIR$/../imooc-juc/target/classes/lock/reentrantlock/CinemaBookSeat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-juc/target/classes/lock/reentrantlock/LockDemo$Outputer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../imooc-juc/target/classes/lock/reentrantlock/LockDemo$Outputer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-juc/target/classes/threadpool/PrintTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/../imooc-juc/target/classes/threadpool/PrintTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../let_code/out/production/let_code/com/song/medium/_779.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../play-load/src/main/java/com/play/guava/CollectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../play-load/src/main/java/com/play/guava/CollectionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../play-load/src/main/java/com/play/java8/function/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../play-load/src/main/java/com/play/java8/function/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../play-load/src/main/java/com/play/test/ExecutorMainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../play-load/src/main/java/com/play/test/ExecutorMainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../play-load/target/classes/com/play/guava/CollectionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../play-load/target/classes/com/play/guava/CollectionTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../play-vesion/src/main/java/com/szh/java9/Java9Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../play-vesion/src/main/java/com/szh/java9/Java9Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../play-vesion/src/main/java/com/szh/java9/MyInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/../play-vesion/src/main/java/com/szh/java9/MyInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../play-vesion/src/main/java/com/szh/java9/MyInterfaceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../play-vesion/src/main/java/com/szh/java9/MyInterfaceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-01-helloworld/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-01-helloworld/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-01-helloworld/src/main/java/com/atguigu/controller/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-01-helloworld/src/main/java/com/atguigu/controller/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-01-helloworld/src/test/java/com/test/TaskDemoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-01-helloworld/src/test/java/com/test/TaskDemoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-2.1.4.RELEASE.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xxl-job" beforeDir="false" afterPath="$PROJECT_DIR$/../xxl-job" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$PROJECT_DIR$/../../../../maven/apache-maven-3.8.5/.m2/repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../maven/apache-maven-3.8.5" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../../../maven/apache-maven-3.8.5/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="27AsWogzkSWkkRWgIVzOh1C04Vx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;3938235e44ca8496ec458a1967c7f2fa&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.com.geely.design.pattern.structural.composite.Test">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geely.design.pattern.behavioral.chainofresponsibility.Test" />
+      <module name="design_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.geely.design.pattern.behavioral.chainofresponsibility.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.geely.design.pattern.behavioral.command.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geely.design.pattern.behavioral.command.Test" />
+      <module name="design_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.geely.design.pattern.behavioral.command.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.geely.design.pattern.behavioral.mediator.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geely.design.pattern.behavioral.mediator.Test" />
+      <module name="design_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.geely.design.pattern.behavioral.mediator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.geely.design.pattern.structural.composite.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geely.design.pattern.structural.composite.Test" />
+      <module name="design_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.geely.design.pattern.structural.composite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.geely.design.pattern.structural.decorator.v2.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geely.design.pattern.structural.decorator.v2.Test" />
+      <module name="design_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.geely.design.pattern.structural.decorator.v2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.geely.design.pattern.structural.composite.Test" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.com.geely.design.pattern.structural.decorator.v2.Test" />
+        <item itemvalue="Application.com.geely.design.pattern.behavioral.command.Test" />
+        <item itemvalue="Application.com.geely.design.pattern.behavioral.mediator.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33910cdf-fc07-459a-93bd-29d47d406cf7" name="Changes" comment="" />
+      <created>1648774258423</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648774258423</updated>
+      <workItem from="1648774259818" duration="1298000" />
+      <workItem from="1648775570705" duration="2302000" />
+      <workItem from="1649733123152" duration="238000" />
+      <workItem from="1649750949886" duration="1994000" />
+      <workItem from="1649810567678" duration="598000" />
+      <workItem from="1649896598605" duration="23000" />
+      <workItem from="1649935062722" duration="23000" />
+      <workItem from="1651711367269" duration="5459000" />
+      <workItem from="1653096028859" duration="149000" />
+      <workItem from="1654129658000" duration="8404000" />
+      <workItem from="1656634879427" duration="2380000" />
+      <workItem from="1656682674716" duration="6457000" />
+      <workItem from="1656981512452" duration="3350000" />
+      <workItem from="1657759642581" duration="1469000" />
+      <workItem from="1657941673835" duration="1673000" />
+      <workItem from="1657951959313" duration="1860000" />
+      <workItem from="1658214740611" duration="8743000" />
+      <workItem from="1658308220841" duration="1690000" />
+      <workItem from="1658541999147" duration="165000" />
+      <workItem from="1660523686676" duration="3569000" />
+      <workItem from="1660561215656" duration="10019000" />
+      <workItem from="1661246733810" duration="8074000" />
+      <workItem from="1661331336064" duration="2575000" />
+      <workItem from="1668645726861" duration="2105000" />
+      <workItem from="1668680663666" duration="1394000" />
+      <workItem from="1668842834266" duration="49000" />
+      <workItem from="1672273647269" duration="2227000" />
+      <workItem from="1674177159881" duration="6183000" />
+      <workItem from="1675039558108" duration="634000" />
+      <workItem from="1675125580523" duration="1352000" />
+      <workItem from="1675676218615" duration="4110000" />
+      <workItem from="1675777219489" duration="2035000" />
+      <workItem from="1675841802361" duration="5343000" />
+      <workItem from="1675943180711" duration="608000" />
+    </task>
+    <task id="LOCAL-00001" summary="&quot;111&quot;">
+      <created>1648775999045</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1648775999045</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;111&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;111&quot;" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/state/PlayState.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/proxy/dynamicproxy/Test.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

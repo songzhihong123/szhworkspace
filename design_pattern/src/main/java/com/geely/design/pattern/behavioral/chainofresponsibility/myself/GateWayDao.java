@@ -6,12 +6,13 @@ package com.geely.design.pattern.behavioral.chainofresponsibility.myself;
  * @Author szh
  * @Date 2022年07月05日
  */
-public interface GateDao {
+public interface GateWayDao {
 
 
-    GatewayEntity get
+    GatewayEntity getGatewayEntity(Integer handleId);
 
 
+    GatewayEntity getFirstGatewayEntity();
 
 
 }
