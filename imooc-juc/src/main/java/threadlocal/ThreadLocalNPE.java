@@ -15,12 +15,12 @@ public class ThreadLocalNPE {
     public static void main(String[] args) {
 
         ThreadLocalNPE threadLocalNPE = new ThreadLocalNPE();
-//        threadLocalNPE.set();
-        System.out.println(threadLocalNPE.get());
+        threadLocalNPE.set();
+        System.out.println("main: " + threadLocalNPE.get());
 
         new Thread(() -> {
             threadLocalNPE.set();
-            System.out.println(threadLocalNPE.get());
+            System.out.println("child: " + threadLocalNPE.get());
         }).start();
     }
 
