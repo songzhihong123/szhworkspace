@@ -1,4 +1,4 @@
-package com.imooc.datastructure1.array;
+package com.imooc.datastructure1.stack;
 
 /**
  * @ClassName Array
@@ -54,6 +54,15 @@ public class Array<E> {
         }
         return data[index];
     }
+
+    public E getLast(){
+        return get(size - 1);
+    }
+
+    public E getFirst(){
+        return get(0);
+    }
+
 
     public void set(int index , E e){
         if(index < 0 || index >= size){
