@@ -1,25 +1,20 @@
 package com.imooc.datastructure1.queue;
 
-import com.imooc.datastructure.queue.ArrayQueue;
-
-import javax.sound.midi.Soundbank;
-import java.sql.SQLOutput;
-
 /**
- * @ClassName QueueArray
- * @Description QueueArray
+ * @ClassName ArrayQueue
+ * @Description ArrayQueue
  * @Author szh
  * @Date 2023年07月16日
  */
-public class QueueArray<E> implements Queue<E>{
+public class ArrayQueue<E> implements Queue<E>{
 
     private Array<E> array;
 
-    public void ArrayQueue(int capaticy){
+    public ArrayQueue(int capaticy){
         array = new Array<>(capaticy);
     }
 
-    public void ArrayQueue(){
+    public ArrayQueue(){
         array = new Array<>();
     }
 
@@ -71,7 +66,7 @@ public class QueueArray<E> implements Queue<E>{
 
 
     public static void main(String[] args) {
-        ArrayQueue<Integer> queue = new ArrayQueue<>();
+        com.imooc.datastructure.queue.ArrayQueue<Integer> queue = new com.imooc.datastructure.queue.ArrayQueue<>();
 
         for(int i = 0 ; i < 10 ; i ++){
             queue.enqueue(i);
