@@ -39,6 +39,13 @@ public class Main {
         LoopQueue<Integer> loopQueue = new LoopQueue<>();
 
         System.out.println("LoopQueue , time: " + testQueue(loopQueue , opCount) + " s");
+
+
+        LinkListQueue<Integer> linkListQueue = new LinkListQueue<>();
+
+        System.out.println("LinkListQueue , time: " + testQueue(linkListQueue , opCount) + " s");
+
+
     }
 
 
