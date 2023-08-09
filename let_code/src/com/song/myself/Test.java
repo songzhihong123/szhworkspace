@@ -1,5 +1,9 @@
 package com.song.myself;
 
+import java.time.Instant;
+import java.time.LocalDateTime;
+import java.time.ZoneId;
+import java.time.temporal.ChronoUnit;
 import java.util.*;
 import java.util.stream.Collectors;
 
@@ -50,6 +54,20 @@ public class Test {
 //        List<Map<String, String>> collect = list4.stream().flatMap(Collection::stream).collect(Collectors.toList());
 
         System.out.println();
+
+        Integer a = Integer.valueOf(2);
+
+        System.out.println(Objects.equals(a , 2));
+
+
+
+
+
+
+        Long until = LocalDateTime.now().until(LocalDateTime.of(2023, 6 , 15 , 16 , 48 , 0), ChronoUnit.MINUTES);
+
+        System.out.println(until);
+
 
     }
 
