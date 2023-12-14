@@ -5,33 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33910cdf-fc07-459a-93bd-29d47d406cf7" name="Changes" comment="&quot;111&quot;">
-      <change afterPath="$PROJECT_DIR$/../let_code/src/com/song/simple/_1768.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../let_code/src/com/song/sort/HelloWord.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaArchitect" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaArchitect" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Spring Boot workplace.rar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../data_structure/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../data_structure/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/chainofresponsibility/myself/GateWayDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/chainofresponsibility/myself/GateWayDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/chainofresponsibility/myself/GateWayDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/chainofresponsibility/myself/GateWayDaoImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/chainofresponsibility/myself/GateWayEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/chainofresponsibility/myself/GateWayEnum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/chainofresponsibility/myself/GateWayFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/chainofresponsibility/myself/GateWayFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/chainofresponsibility/myself/GatewayEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/chainofresponsibility/myself/GatewayEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/chainofresponsibility/myself/GatewayHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/chainofresponsibility/myself/GatewayHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../imooc-juc/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../imooc-juc/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../imooc-juc/src/main/java/threadpool/ScheduledThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../imooc-juc/src/main/java/threadpool/ScheduledThreadPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../imooc-juc/target/classes/flowcontrol/condition/ConditionDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../imooc-juc/target/classes/flowcontrol/condition/ConditionDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../imooc-juc/target/classes/flowcontrol/condition/ConditionDemo2$Consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../imooc-juc/target/classes/flowcontrol/condition/ConditionDemo2$Consumer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../imooc-juc/target/classes/flowcontrol/condition/ConditionDemo2$Provider.class" beforeDir="false" afterPath="$PROJECT_DIR$/../imooc-juc/target/classes/flowcontrol/condition/ConditionDemo2$Provider.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../imooc-juc/target/classes/flowcontrol/countdownlatch/CountDownLatchDemo1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../imooc-juc/target/classes/flowcontrol/countdownlatch/CountDownLatchDemo1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../imooc-juc/target/classes/flowcontrol/countdownlatch/CountDownLatchDemo1And2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../imooc-juc/target/classes/flowcontrol/countdownlatch/CountDownLatchDemo1And2$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../imooc-juc/target/classes/future/FutureTaskDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../imooc-juc/target/classes/future/FutureTaskDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../imooc-juc/target/classes/lock/lock/LockInterruptibly.class" beforeDir="false" afterPath="$PROJECT_DIR$/../imooc-juc/target/classes/lock/lock/LockInterruptibly.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../imooc-juc/target/classes/lock/readwrite/CinemaReadWrite.class" beforeDir="false" afterPath="$PROJECT_DIR$/../imooc-juc/target/classes/lock/readwrite/CinemaReadWrite.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../imooc-juc/target/classes/lock/reentrantlock/CinemaBookSeat.class" beforeDir="false" afterPath="$PROJECT_DIR$/../imooc-juc/target/classes/lock/reentrantlock/CinemaBookSeat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../imooc-juc/target/classes/lock/reentrantlock/LockDemo$Outputer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../imooc-juc/target/classes/lock/reentrantlock/LockDemo$Outputer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../imooc-juc/target/classes/threadpool/PrintTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/../imooc-juc/target/classes/threadpool/PrintTask.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../let_code/out/production/let_code/com/song/medium/_779.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/myself/rxjava/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/geely/design/myself/rxjava/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/adapter/classadapter/Adapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/adapter/classadapter/Adapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/adapter/classadapter/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/adapter/classadapter/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/adapter/objectadapter/Adapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/adapter/objectadapter/Adapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/adapter/objectadapter/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/adapter/objectadapter/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/flyweight/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/geely/design/pattern/structural/flyweight/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../let_code/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../let_code/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../let_code/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../let_code/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../let_code/out/production/let_code/com/song/myself/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../let_code/out/production/let_code/com/song/myself/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../let_code/src/com/song/myself/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../let_code/src/com/song/myself/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../let_code/src/com/song/simple/_1281.java" beforeDir="false" afterPath="$PROJECT_DIR$/../let_code/src/com/song/simple/_1281.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../let_code/src/com/song/simple/_206_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../let_code/src/com/song/simple/_206_01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../play-load/src/main/java/com/play/guava/CollectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../play-load/src/main/java/com/play/guava/CollectionTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../play-load/src/main/java/com/play/java8/function/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../play-load/src/main/java/com/play/java8/function/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../play-load/src/main/java/com/play/test/ExecutorMainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../play-load/src/main/java/com/play/test/ExecutorMainTest.java" afterDir="false" />
@@ -67,13 +59,15 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="$PROJECT_DIR$/../../../../maven/apache-maven-3.8.5/.m2/repository" />
+        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
         <option name="mavenHome" value="$PROJECT_DIR$/../../../../maven/apache-maven-3.8.5" />
-        <option name="useMavenConfig" value="true" />
         <option name="userSettingsFile" value="$PROJECT_DIR$/../../../../maven/apache-maven-3.8.5/conf/settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
   <component name="ProjectId" id="27AsWogzkSWkkRWgIVzOh1C04Vx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -86,21 +80,36 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;spring.configuration.checksum&quot;: &quot;3938235e44ca8496ec458a1967c7f2fa&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.com.geely.design.pattern.structural.composite.Test">
+  <component name="RunManager" selected="Application.com.geely.design.pattern.structural.bridge.Test">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geely.design.myself.rxjava.Main" />
+      <module name="design_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.geely.design.myself.rxjava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.geely.design.pattern.behavioral.chainofresponsibility.Test" />
+      <option name="MAIN_CLASS_NAME" value="com.geely.design.pattern.structural.decorator.v1.Test" />
       <module name="design_pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.geely.design.pattern.behavioral.chainofresponsibility.*" />
+          <option name="PATTERN" value="com.geely.design.pattern.structural.decorator.v1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.geely.design.pattern.behavioral.command.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.geely.design.pattern.behavioral.command.Test" />
+    <configuration name="com.geely.design.pattern.structural.adapter.classadapter.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geely.design.pattern.structural.adapter.classadapter.Test" />
       <module name="design_pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.geely.design.pattern.behavioral.command.*" />
+          <option name="PATTERN" value="com.geely.design.pattern.structural.adapter.classadapter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.geely.design.pattern.behavioral.mediator.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.geely.design.pattern.behavioral.mediator.Test" />
+    <configuration name="com.geely.design.pattern.structural.adapter.objectadapter.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geely.design.pattern.structural.adapter.objectadapter.Test" />
       <module name="design_pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.geely.design.pattern.behavioral.mediator.*" />
+          <option name="PATTERN" value="com.geely.design.pattern.structural.adapter.objectadapter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,25 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.geely.design.pattern.structural.composite.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.geely.design.pattern.structural.composite.Test" />
+    <configuration name="com.geely.design.pattern.structural.bridge.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geely.design.pattern.structural.bridge.Test" />
       <module name="design_pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.geely.design.pattern.structural.composite.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.geely.design.pattern.structural.decorator.v2.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.geely.design.pattern.structural.decorator.v2.Test" />
-      <module name="design_pattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.geely.design.pattern.structural.decorator.v2.*" />
+          <option name="PATTERN" value="com.geely.design.pattern.structural.bridge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.geely.design.pattern.structural.composite.Test" />
+        <item itemvalue="Application.com.geely.design.pattern.structural.bridge.Test" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.com.geely.design.pattern.structural.decorator.v2.Test" />
-        <item itemvalue="Application.com.geely.design.pattern.behavioral.command.Test" />
-        <item itemvalue="Application.com.geely.design.pattern.behavioral.mediator.Test" />
+        <item itemvalue="Application.com.geely.design.pattern.structural.adapter.classadapter.Test" />
+        <item itemvalue="Application.com.geely.design.pattern.structural.adapter.objectadapter.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -212,6 +208,24 @@
       <workItem from="1675777219489" duration="2035000" />
       <workItem from="1675841802361" duration="5343000" />
       <workItem from="1675943180711" duration="608000" />
+      <workItem from="1676421875013" duration="885000" />
+      <workItem from="1676856325886" duration="3739000" />
+      <workItem from="1676884212291" duration="4301000" />
+      <workItem from="1677141538905" duration="3188000" />
+      <workItem from="1678159719499" duration="1000" />
+      <workItem from="1678179352041" duration="1227000" />
+      <workItem from="1678322239270" duration="1153000" />
+      <workItem from="1678543173845" duration="1889000" />
+      <workItem from="1679320715633" duration="2078000" />
+      <workItem from="1679359875798" duration="967000" />
+      <workItem from="1683104647815" duration="1383000" />
+      <workItem from="1685085590854" duration="11000" />
+      <workItem from="1688870678383" duration="4364000" />
+      <workItem from="1694432201186" duration="19474000" />
+      <workItem from="1695194697303" duration="4248000" />
+      <workItem from="1695803809833" duration="4060000" />
+      <workItem from="1696754280127" duration="1195000" />
+      <workItem from="1702435192316" duration="7646000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;111&quot;">
       <created>1648775999045</created>
@@ -244,11 +258,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/geely/design/pattern/behavioral/state/PlayState.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/geely/design/pattern/structural/proxy/dynamicproxy/Test.java</url>
           <line>18</line>
