@@ -1,19 +1,24 @@
 package com.letcode.szh.sort;
 
 /**
- * @ClassName SelectionSort
+ * @ClassName _2SelectionSort
  * @Description 选择排序
  * @Author szh
  * @Date 2023年12月19日
  */
-public class SelectionSort {
+public class _2SelectionSort {
 
 
     /**
      *
      * 每次找到最小的值放到第一位，然后找到第二小的放在第二个位置
      *
+     * 时间复杂度：O(n^2)
+     *
      */
+
+
+
     public static int[] selectionSort(int[] arr){
 
 

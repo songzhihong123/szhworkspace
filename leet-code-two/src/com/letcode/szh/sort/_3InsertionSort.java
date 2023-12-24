@@ -1,12 +1,12 @@
 package com.letcode.szh.sort;
 
 /**
- * @ClassName InsertionSort
- * @Description InsertionSort 插入排序
+ * @ClassName _3InsertionSort
+ * @Description _3InsertionSort 插入排序
  * @Author szh
  * @Date 2023年12月20日
  */
-public class InsertionSort {
+public class _3InsertionSort {
 
 
     /**
@@ -17,6 +17,7 @@ public class InsertionSort {
      * 5、将新元素插入到该位置后；
      * 6、重复步骤 2~5。#
      *
+     * 时间复杂度：O(n^2)
      */
 
 

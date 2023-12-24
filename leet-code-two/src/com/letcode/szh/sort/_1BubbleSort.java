@@ -1,16 +1,18 @@
 package com.letcode.szh.sort;
 
 /**
- * @ClassName BubbleSort
+ * @ClassName _1BubbleSort
  * @Description 冒泡排序
  * @Author szh
  * @Date 2023年12月19日
  */
-public class BubbleSort {
+public class _1BubbleSort {
 
 
     /**
      *  每次把最大的冒到最后一个位置
+     *
+     *  时间复杂度：O(n^2)
      */
     public static int[] bubbleSort(int[] arr){
 
