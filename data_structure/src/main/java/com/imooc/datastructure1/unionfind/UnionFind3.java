@@ -52,13 +52,15 @@ public class UnionFind3 implements UF{
             return;
         }
 
+        // pRoot的size < qRoot的size , qRoot节点个数多
         if(sz[pRoot] < sz[qRoot]){
             parent[pRoot] = qRoot;
-            sz[qRoot] += sz[pRoot];
-        }else{
+            sz[qRoot] += sz[qRoot];
+        }else {
             parent[qRoot] = pRoot;
             sz[pRoot] += sz[qRoot];
         }
+
     }
 
 }

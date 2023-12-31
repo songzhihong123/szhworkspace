@@ -8,6 +8,8 @@ package com.imooc.datastructure1.unionfind;
  */
 public class UnionFind2 implements UF{
 
+    // 由孩子指向父亲的树
+    // parent[i] 表示第i个节点指向的节点
     private int[] parent;
 
     public  UnionFind2(int size){
@@ -26,9 +28,11 @@ public class UnionFind2 implements UF{
         if(p < 0 || p >= parent.length){
             throw new IllegalArgumentException("p is out of bound.");
         }
+
         while(p != parent[p]){
             p = parent[p];
         }
+
         return p;
     }
 

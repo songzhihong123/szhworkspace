@@ -1,4 +1,4 @@
-package com.imooc.datastructure1.array;
+package com.imooc.datastructure1.maxheap;
 
 /**
  * @ClassName Array
@@ -15,6 +15,14 @@ public class Array<E> {
     public Array(int capacity){
         data = (E[])new Object[capacity];
         size = 0;
+    }
+
+    public Array(E[] arr){
+        data = (E[])new Object[arr.length];
+        for(int i = 0 ; i < arr.length ; i ++){
+            data[i] = arr[i];
+        }
+        size = arr.length;;
     }
 
     public Array(){
@@ -129,6 +137,15 @@ public class Array<E> {
         return size == 0;
     }
 
+
+    public void swap(int i , int j){
+        if(i < 0 || i >= size || j < 0 || j >= size){
+            throw new IllegalArgumentException("Index is illegal");
+        }
+        E t = data[i];
+        data[i] = data[j];
+        data[j] = t;
+    }
 
     @Override
     public String toString(){

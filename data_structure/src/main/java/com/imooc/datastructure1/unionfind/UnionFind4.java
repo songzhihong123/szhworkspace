@@ -54,14 +54,16 @@ public class UnionFind4 implements UF{
 
         // 根据两个元素所载的数的rank不同判断合并方向
         // 将rank低的集合合并到rank高的集合上
-        if(rank[pRoot] < rank[qRoot]){
+        if(rank[pRoot] > rank[qRoot]){
+            parent[qRoot] = pRoot;
+        }else if(rank[pRoot] < rank[qRoot]){
             parent[pRoot] = qRoot;
-        }else if(rank[pRoot] > rank[qRoot]){
-            parent[qRoot] = pRoot;
-        }else{ // rank[pRoot] == rank[qRoot]
-            parent[qRoot] = pRoot;
-            rank[pRoot] += 1;
+        }else{
+            parent[pRoot] = qRoot;
+            rank[qRoot] += 1;
         }
+
+
     }
 
 }
