@@ -47,6 +47,15 @@ public class _7HeapSort {
         }
     }
 
+
+    // 元素上浮
+    public static void siftUp(int[] arr , int k){
+        while(k >= 0 && arr[k] > arr[parent(k)]){
+            swap(arr , k , parent(k));
+            k = parent(k);
+        }
+    }
+
     // 构建一个最大堆
     public static void heapify(int[] arr){
         //从最后一个节点的父亲节点到第一个节点，执行元素下沉的操作
