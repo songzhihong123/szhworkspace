@@ -46,14 +46,17 @@ public class _6QuickSort {
 
         while(left < right){
 
+            // 从右向左找找到小于基准数的index
             while(left < right && arr[right] >= pivot){
                 right --;
             }
 
+            // 从左向右找到大于基准的index
             while (left < right && arr[left] <= pivot){
                 left ++;
             }
 
+            // 交换两个数的位置
             if(left < right){
                 int temp = arr[left];
                 arr[left]  = arr[right];
