@@ -149,7 +149,7 @@ public class AVLTree<K extends Comparable<K>, V>{
             // 待删除节点的左子树为空
             if(node.left == null){
                 Node rightNode = node.right;
-                node.right = rightNode;
+                node.right = null;
                 size --;
                 return rightNode;
             }
