@@ -21,7 +21,6 @@ public class _3InsertionSort {
      */
 
 
-
     public static int[] insertionSort(int[] arr){
 
         // 第一个for循环是从第一个位置查找到最后一个位置
@@ -44,6 +43,33 @@ public class _3InsertionSort {
         }
 
         return arr;
+    }
+
+
+    public static int[] insertionSort1(int[] arr){
+
+        // 第一个for循环是从第一个位置查找到最后一个位置
+        for(int i = 1 ; i < arr.length ; i ++){
+            for(int j = i - 1 ; j >= 0 && arr[j] > arr[j + 1] ; j--){
+                swap(arr , j , j + 1);
+            }
+        }
+
+        return arr;
+    }
+
+
+    public static void swap(int[] arr , int i , int j){
+        int temp = arr[i];
+        arr[i] = arr[j];
+        arr[j] = temp;
+    }
+
+
+    public static void swap1(int[] arr , int i , int j){
+        arr[i] = arr[i] ^ arr[j];
+        arr[j] = arr[i] ^ arr[j];
+        arr[i] = arr[i] ^ arr[j];
     }
 
 
