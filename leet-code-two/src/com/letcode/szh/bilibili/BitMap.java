@@ -12,7 +12,7 @@ public class BitMap {
     public static void main(String[] args) {
 
 
-        int[] arr = new int[10]; // 32bit * 10 -> 32 0bit
+        int[] arr = new int[10]; // 32bit * 10 -> 320 0bit
 
         int i = 178; // 想取得第178个bit的状态
 
@@ -23,6 +23,7 @@ public class BitMap {
 
         // 拿到178位的状态
         // 右移之后把想要的那个位置移位到最后的位置上
+        // arr[numIndex] >> bitIndex 操作之后，就是想要的位跑到了最右侧
         int s = ( (arr[numIndex] >> bitIndex)    & 1);
 
 
