@@ -58,4 +58,37 @@ public class CardsInLine {
     }
 
 
+
+    // 动态规划
+    public static int dp(int[] arr){
+        if(arr == null || arr.length == 0){
+            return 0;
+        }
+
+        int[][] f = new int[arr.length][arr.length];
+        int[][] s = new int[arr.length][arr.length];
+
+        for(int i = 0 ; i < arr.length ; i++){
+            f[i][i] = arr[i];
+            s[i][i] = 0;
+        }
+
+        int row = 0;
+        int col = 1;
+
+        while(col < arr.length){
+            int i = row;
+            int j = col;
+            while(i < arr.length && j < arr.length){
+                f[i][j] = Math.max(arr[i] + s[i + 1][j] , arr[j] + s[i][j - 1]);
+                s[i][j] = Math.min(f[i + 1][j] , f[i][j - 1]);
+                i ++;
+                j ++;
+            }
+            col ++;
+        }
+        return Math.max(f[0][arr.length- 1], s[0][arr.length- 1]);
+    }
+
+
 }
