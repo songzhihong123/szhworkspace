@@ -27,7 +27,7 @@ public class AddMinusMultiDivideByBit {
             a = sum;
         }
         return sum;
-        }
+    }
 
 
         // 减法就是 a 加上 b的相反数
