@@ -166,7 +166,7 @@ public class IsCBT {
 
 
     // 判断以node为节点的树是不是一颗满二叉树
-    public static boolean isFull(Node node){
+    public static boolean  isFull(Node node){
         if(node == null){
             return true;
         }
